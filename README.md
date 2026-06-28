@@ -11,4 +11,4 @@ Feb 2026 - Now
 
 Too busy actually solving problems, writing code and designing back-end systems, hence why the zero git contributions.
 
-[LinkedIn]https://www.linkedin.com/in/immanuel398/
+[LinkedIn](https://www.linkedin.com/in/immanuel398/)
